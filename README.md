@@ -10,5 +10,5 @@ Working Project links.
 - Technical Documentation: [Description](Technical.md): [CodePen](https://codepen.io/mandeep147/pen/YmVPjg)
 - Personal Portfolio: [Description](Portfolio.md): [CodePen](https://codepen.io/mandeep147/pen/eqWJVR) 
 
-Certificate
+[Certificate](responsive-web-design.pdf)    
 [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mandeepkaur/responsive-web-design)
